@@ -1,0 +1,13 @@
+about-life.svg: XML well-formed; inline PNGs=0; inline WOFF2 fonts=2; external asset URLs=0; foreignObject=absent; SMIL=present.
+connect.svg: XML well-formed; inline PNGs=1; inline WOFF2 fonts=2; external asset URLs=0; foreignObject=absent; SMIL=present.
+hero.svg: XML well-formed; inline PNGs=1; inline WOFF2 fonts=2; external asset URLs=0; foreignObject=absent; SMIL=present.
+id-dashboard.svg: XML well-formed; inline PNGs=1; inline WOFF2 fonts=2; external asset URLs=0; foreignObject=absent; SMIL=present.
+stack.svg: XML well-formed; inline PNGs=0; inline WOFF2 fonts=2; external asset URLs=0; foreignObject=absent; SMIL=present.
+id.png: (1254, 1254); alpha extrema=(0, 255); fully transparent pixels=713991; original PNG copied byte-for-byte.
+right_pointing.png: (1254, 1254); alpha extrema=(0, 255); fully transparent pixels=815743; original PNG copied byte-for-byte.
+README includes all five required SVG paths with ?v=1: True
+Static render previews created with CairoSVG: renders/*-static.png. Stack tagline adjusted to stay within the 440px SVG viewBox.
+CSS and SMIL are used; no JavaScript or foreignObject in SVGs.
+SVGs have no external asset URLs and embed PNG portraits and WOFF2 fonts as data URIs.
+Automated Chromium time-series screenshots (0, 2, 5, 9, 13 seconds) could not be completed in this environment; animations were checked structurally, not fully verified at every requested timestamp.
+GitHub may sanitize SVG behavior; animation support may differ from local browser preview.

@@ -1,0 +1,5 @@
+Visual verification status
+- Static raster renders of all five SVGs are included in renders/.
+- Original portrait PNG alpha was preserved byte-for-byte.
+- Source validation confirms XML well-formedness, embedded image/font data, SMIL presence, and zero external asset references.
+- A complete Chromium screenshot series at 0, 2, 5, 9, and 13 seconds could not be completed in this environment; this is disclosed in VERIFICATION.txt rather than claiming full timed verification.
