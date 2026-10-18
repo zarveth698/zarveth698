@@ -16,7 +16,7 @@
 |---|---|---|
 | **Fruit Catcher** | 2D pixel-art Unity game exploring C# gameplay logic, movement, spawning, power-ups, scoring, UI, and PC builds. | [Play online](https://froot-catcher.vercel.app/) |
 | **Plane Shooter Game** | 2D fighter-plane shooter featuring enemy attacks, shooting, collision mechanics, score-based gameplay, and an Android APK build. Version 1.0.0. | [Play online](https://plane-shoooter.vercel.app/) |
-| **Maze Explorer** | Maze exploration game project. | [Open project](https://maze-xplorer.vercel.app/) |
+| **Maze Explorer** | 3D maze exploration game focused on navigation, pathfinding, obstacle avoidance, and logical problem-solving.  | [Play Online](https://maze-xplorer.vercel.app/) |
 
 <div align="center">
 
